@@ -1,0 +1,14 @@
+KIND,second,third,fourth
+Mem,apple,cherry,plum
+UI,strawberry,plum,cherry
+CPU,peach,banana,apple
+DD,fruit,apple,pear
+Mem,cherry,pear,banana
+CPU,cherry,watermelon,apple
+CPU,peach,cherry,banana
+CPU,pineapple,apple,plum
+CPU,banana,plum,peach
+CPU,mandarin,plum,apple
+CPU,melon,apple,persimmon
+MEM,peach,cherry,apple
+MEM,apple,mandarin,plum
